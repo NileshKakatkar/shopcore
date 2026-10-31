@@ -1,0 +1,21 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/NileshKakatkar/user-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/NileshKakatkar/order-service.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/NileshKakatkar/product-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/NileshKakatkar/gateway-service
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/NileshKakatkar/email-service
+[submodule "shared-grpc"]
+	path = shared-grpc
+	url = https://github.com/NileshKakatkar/shared-grpc
+[submodule "shared-kafka"]
+	path = shared-kafka
+	url = https://github.com/NileshKakatkar/shared-kafka

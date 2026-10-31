@@ -19,3 +19,6 @@
 [submodule "shared-kafka"]
 	path = shared-kafka
 	url = https://github.com/NileshKakatkar/shared-kafka
+[submodule "deployment"]
+    path = deployment
+    url = https://github.com/NileshKakatkar/deployment.git
